@@ -13,7 +13,7 @@ function palindrome(string) {
 
 palindrome(myString)
 
-
+//
 // Playing with ^ regex
 // works with \W
 // console.log(myString.replace(/[a-z]/g, ''))
